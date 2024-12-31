@@ -18,7 +18,6 @@ kirim.addEventListener('click', (e) => {
 	document.querySelector('div.awal').style.display = 'none';
 	document.querySelector('div.bg').style.display = 'block';
 	const duaRibu25 = document.querySelector('div.bg div.heading h1');
-	console.log(duaRibu25);
 	const penyampai = document.getElementById('penyampai');
 	const {nama, kalimat} = nilai();
 	const ucapan = document.querySelector('p.ucapan');
