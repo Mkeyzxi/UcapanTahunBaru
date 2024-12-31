@@ -125,7 +125,7 @@ button:active {
 
 .bg {
 	/* display: none; */
-	background-image: url('../src/bg-year.webp');
+	background-image: url('../bg-year.webp');
 	background-repeat: no-repeat;
 	background-position: top center;
 	background-size: cover;
