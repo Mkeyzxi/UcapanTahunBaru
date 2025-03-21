@@ -25,7 +25,7 @@ Proyek ini dibangun menggunakan:
 Jika kamu ingin menjalankan proyek ini di lokal:
 
 ```bash
-git clone https://github.com/username/ucapan-tahun-baru-2026.git
+git clone https://github.com/mkeyzxi/UcapanTahunBaru.git
 cd ucapan-tahun-baru-2026
 ```
 
