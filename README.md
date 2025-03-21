@@ -26,7 +26,7 @@ Jika kamu ingin menjalankan proyek ini di lokal:
 
 ```bash
 git clone https://github.com/mkeyzxi/UcapanTahunBaru.git
-cd ucapan-tahun-baru-2026
+cd UcapanTahunBaru
 ```
 
 Buka `index.html` di browser favoritmu.
